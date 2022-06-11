@@ -1,8 +1,8 @@
-const { awscdk } = require("projen");
+const { awscdk } = require('projen');
 const project = new awscdk.AwsCdkTypeScriptApp({
-  cdkVersion: "2.25.0",
-  defaultReleaseBranch: "main",
-  name: "ssm-port-forward",
+  cdkVersion: '2.25.0',
+  defaultReleaseBranch: 'main',
+  name: 'ssm-port-forward',
   deps: [
     'cdk-spot-one',
     'cdk-common',
