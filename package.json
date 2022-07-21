@@ -46,8 +46,8 @@
   },
   "dependencies": {
     "aws-cdk-lib": "^2.25.0",
-    "cdk-common": "^2.0.208",
-    "cdk-spot-one": "^2.0.94",
+    "cdk-common": "^2.0.210",
+    "cdk-spot-one": "^2.0.95",
     "constructs": "^10.0.5",
     "typescript": "4.6"
   },
