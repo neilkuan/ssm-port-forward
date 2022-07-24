@@ -1377,9 +1377,9 @@ camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001366:
-  version "1.0.30001368"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001368.tgz#c5c06381c6051cd863c45021475434e81936f713"
-  integrity sha512-wgfRYa9DenEomLG/SdWgQxpIyvdtH3NW8Vq+tB6AwR9e56iOIcu1im5F/wNdDf04XlKHXqIx4N8Jo0PemeBenQ==
+  version "1.0.30001369"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001369.tgz#58ca6974acf839a72a02003258a005cbb0cb340d"
+  integrity sha512-OY1SBHaodJc4wflDIKnlkdqWzJZd1Ls/2zbVJHBSv3AT7vgOJ58yAhd2CN4d57l2kPJrgMb7P9+N1Mhy4tNSQA==
 
 case@1.6.3, case@^1.6.3:
   version "1.6.3"
@@ -1391,10 +1391,10 @@ caseless@^0.12.0, caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha512-4tYFyifaFfGacoiObjJegolkwSU4xQNGbVgUiNYVUxbQ2x2lUsFvY4hVgVzGiIe6WLOPqycWXA40l+PWsxthUw==
 
-cdk-common@^2.0.212:
-  version "2.0.212"
-  resolved "https://registry.yarnpkg.com/cdk-common/-/cdk-common-2.0.212.tgz#d5c466c473ee2cd0819be31e1297ffb6a523615c"
-  integrity sha512-c62UVZedYB0MCUbIzQ0d1EB8C0i9VpYUEX/V8fwCn/heF8fBWrhzG6NbIzOvhiBkLiY+AF3SUI1/YxMxRnIBcg==
+cdk-common@^2.0.213:
+  version "2.0.213"
+  resolved "https://registry.yarnpkg.com/cdk-common/-/cdk-common-2.0.213.tgz#8abb2f9c5a7c376bd19657587123275762eddf43"
+  integrity sha512-nWEN5P8xusVZpZigFZ52GFBXZ6hEOCI7T4W2x848X6OkXIz5/5F2PT6IWMLtF40Z8SEEW3yXl3SevePyPyMjBw==
   dependencies:
     "@aws-cdk/assert" "^2.33.0"
     case "^1.6.3"
@@ -1579,9 +1579,9 @@ console-control-strings@^1.1.0:
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
 
 constructs@^10.0.5:
-  version "10.1.54"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.54.tgz#569849c9bb20f5626efff1fd44c91f65247ba08c"
-  integrity sha512-zpHUVzv/FaEdZzdbz8N0H6kXxpvJaAqaLVD/OpCMzVyqqAkv/CAi9N/zFuFwuc/EJZLmDY9Kx4uNIQYX/NI3jA==
+  version "10.1.55"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.55.tgz#8da17892cda4340dbba90e5ebc17dee72fcd69f5"
+  integrity sha512-i02jQ4nKWarCWc8OdUFQzeIY1NFv1OCX5KiG0qo4GEpLfelFImKIDTxxECikNaRcXAytkfHe+r6AQNAwKamFPQ==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
